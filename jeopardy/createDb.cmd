@@ -1,0 +1,1 @@
+sqlite3 jeopardy.db < jeopardy.dump
